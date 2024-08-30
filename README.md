@@ -7,8 +7,8 @@ Acknowledgements:
 Some of the foundational network modules inclding VQVAE and DiffusionUNet used in this study are from MONAI's deep learning network modules, and we extend our sincere gratitude for their contribution. (https://github.com/Project-MONAI/GenerativeModels)
 Representative Results:
 
-1). Case 1: HCC ![image](Representative Results/Case1_HCC.gif)
+1). Case 1: HCC ![image](https://github.com/yunfei920406/DL-aMRI/blob/master/Representative%20Results/Case1_HCC.gif)
 
-2). Case 2: Cyst ![image](Representative Results/Case_Cyst.gif)
+2). Case 2: Cyst ![image](https://github.com/yunfei920406/DL-aMRI/blob/master/Representative%20Results/Case_Cyst.gif)
 
-2). Case 3: FNH ![image](Representative Results/Case_FNH.gif)
+2). Case 3: FNH ![image](https://github.com/yunfei920406/DL-aMRI/blob/master/Representative%20Results/Case_FNH.gif)
